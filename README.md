@@ -7,7 +7,7 @@ This replication package describes the data transformation used in the unified d
 
 ### Data
 
-All data is available under the [data](link here) folder. The list of data sources are presented below:
+All data is available under the [data](https://github.com/anonymous-replication/replication-package-unified/tree/main/data) folder. The list of data sources are presented below:
 
 - Unified-class.csv
 - unified-cleaned.csv
@@ -25,7 +25,7 @@ Example:
 
 #### Features
 
-The complete list of features applied in the data is available [here](link features).
+The complete list of features applied in the data is available [here](https://github.com/anonymous-replication/replication-package-unified/blob/main/features/features.md).
 
 ### Data Preparation
 
@@ -66,11 +66,5 @@ Example:
 
 ```bash
 ./notebooks/shap.ipynb
-```
-
-If you prefer, the notebook results are stored in the **results** folder.
-
-```bash
-./results/shap.html
 ```
 
